@@ -99,5 +99,8 @@ Now, you can write C++ classes following the Orthodox Canonical Form in just a f
 - You can add more snippets for additional boilerplate code.
 - Make sure the filename of the `.hpp` and `.cpp` files matches the class name to avoid compilation issues.
 
+## 🙌 Credits
+Special thanks to **Mara Schulze** (Mastermind marschul) for contributions and inspiration!
+
 Happy coding! 🎉
 
